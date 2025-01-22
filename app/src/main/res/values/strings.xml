@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">TipCalculatorReal</string>
-    <string name="Default_Message">Hello World</string>
+    <string name="Default_Message">Tip: $99.99, Total Bill: $99.99.</string>
     <string name="fifteen_Button">15%</string>
     <string name="eighteen_Button">18%</string>
     <string name="twenty_Button">20%</string>
+   <string name="billAmount">Enter Bill Amount</string>
+
+
 
 
 </resources>
